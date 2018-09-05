@@ -11,6 +11,10 @@ A simple Terminal application that shows info on things in space
 **Coming Soon**
 - More celestial bodies
 - JSON data storage
+- Better Interface
+
+**v 0.2.1 (alpha)**
+- Fixed Categories
 
 **v 0.2 (alpha)**
 - Added Categories
