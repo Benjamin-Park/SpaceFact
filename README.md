@@ -9,9 +9,14 @@ A simple Terminal application that shows info on things in space
 
 ## Changelog
 **Coming Soon**
-- More planets
-- Other celestial bodies
+- More celestial bodies
 - JSON data storage
+
+**v 0.2 (alpha)**
+- Added Categories
+- Added Galaxies
+- Added Stars
+- More Facts for Planets
 
 **v 0.1 (alpha)**
 - Initial Build
