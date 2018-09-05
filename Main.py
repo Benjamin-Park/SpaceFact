@@ -4,9 +4,9 @@
 import sys
 import os
 
-version = "v 0.2"
+version = "v 0.2.1"
 
-# Clears the console when called
+# Clears the terminal when called
 def clear():
     os.system("cls" if os.name == "nt" else "clear")
 
@@ -39,6 +39,7 @@ def main():
 
 # Handles Planet Category
 def info_planet():
+    clear()
     print("What Planet would you like to look at?")
     print("")
     print("Mercury")
@@ -245,6 +246,8 @@ def info_galaxy ():
         print("Fun Fact: Andromeda will collide with the Milkyway in about 4 billion years")
         print("")
         input("<ENTER> to return")
+        info_galaxy()
+    else:
         info_galaxy()
 
 main()
