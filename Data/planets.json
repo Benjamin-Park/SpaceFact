@@ -1,0 +1,73 @@
+{
+  "mercury": {
+      "name": "Mercury",
+      "type": "Planet (Terrestrial)",
+      "diameter": "4,880 km",
+      "moons": "0",
+      "day_length": "58d 15h 30m",
+      "fun_fact": "Mercury does not have any seasons"
+    },
+
+  "venus": {
+      "name": "Venus",
+      "type": "Planet (Terrestrial)",
+      "diameter": "12,104 km",
+      "moons": "0",
+      "day_length": "116d 18h 0m",
+      "fun_fact": "Venus is the hottest planet in the solar system"
+    },
+
+  "earth": {
+      "name": "Earth",
+      "type": "Planet (Terrestrial)",
+      "diameter": "12,742 km",
+      "moons": "1",
+      "day_length": "24h",
+      "fun_fact": "70% of the Earth is covered in water"
+    },
+
+  "mars": {
+      "name": "Mars",
+      "type": "Planet (Terrestrial)",
+      "diameter": "6,779 km",
+      "moons": "2",
+      "day_length": "1d 0h 37m",
+      "fun_fact": "Mars has seasons like Earth, but they last twice as long"
+    },
+
+  "jupiter": {
+      "name": "Jupiter",
+      "type": "Planet (Jovian)",
+      "diameter": "139,822 km",
+      "moons": "79",
+      "day_length": "9h 56m",
+      "fun_fact": "The great red spot is a gaint storm that has been going for over 150 years"
+    },
+
+  "saturn": {
+      "name": "Saturn",
+      "type": "Planet (Jovian)",
+      "diameter": "116,464 km",
+      "moons": "62",
+      "day_length": "10h 42m",
+      "fun_fact": "Saturn's rings are only 20 meters thick"
+    },
+
+  "uranus": {
+      "name": "Uranus",
+      "type": "Planet (Terrestrial)",
+      "diameter": "50,724 km",
+      "moons": "27",
+      "day_length": "17h 14m",
+      "fun_fact": "Uranus also has rings"
+    },
+
+  "neptune": {
+      "name": "Neptune",
+      "type": "Planet (Jovian)",
+      "diameter": "49,244 km",
+      "moons": "14",
+      "day_length": "16h 6m",
+      "fun_fact": "The surface temperature on Neptune is -214°C"
+    }
+}

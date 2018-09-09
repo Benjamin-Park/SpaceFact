@@ -1,0 +1,19 @@
+{
+  "milkyway": {
+      "name": "Milkyway",
+      "type": "Galaxy (Barred Spiral)",
+      "diameter": "170,000 ly",
+      "stars": "100 to 400 billion",
+      "age": "13.51 billion years",
+      "fun_fact": "Our solar system is on the Orion Arm"
+    },
+
+  "andromeda": {
+      "name": "Andromeda",
+      "type": "Galaxy (Elliptical)",
+      "diameter": "220,000 ly",
+      "stars": "1 trillion",
+      "age": "10.01 billion years",
+      "fun_fact": "Andromeda will collide with the Milkyway in about 4 billion years"
+    }
+}

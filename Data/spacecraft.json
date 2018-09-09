@@ -1,0 +1,25 @@
+{
+  "falcon 9": {
+      "name": "Falcon 9",
+      "type": "Rocket",
+      "crew": "N/A",
+      "first_launch": "11 May 2018",
+      "fun_fact": "The Falcon 9 is a partially reuseable system"
+    },
+
+  "space shuttle": {
+      "name": "Space Shuttle",
+      "type": "Orbiter Vehicle",
+      "crew": "7",
+      "first_launch": "12 April 1981",
+      "fun_fact": "Up until 2011 the space shuttle supplied the ISS"
+    },
+
+  "soyuz": {
+      "name": "Soyuz",
+      "type": "Orbiter Vehicle",
+      "crew": "3",
+      "first_launch": "April 23 1967",
+      "fun_fact": "The soyuz now supplies the ISS"
+    }
+}

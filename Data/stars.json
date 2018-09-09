@@ -1,0 +1,41 @@
+{
+  "sol": {
+      "name": "Sol",
+      "type": "Star",
+      "diameter": "1.39 million km",
+      "planets": "8",
+      "star_type": "G-Type Main Sequence",
+      "star_system": "1",
+      "fun_fact": "Sol is the latin name for the Sun"
+    },
+
+  "lh54-425": {
+      "name": "LH54-425",
+      "type": "Star",
+      "diameter": "11.12 million km",
+      "planets": "Unknown",
+      "star_type": "O-Type Main Sequence",
+      "star_system": "2",
+      "fun_fact": "The system is approaching us at around 300 km/s"
+    },
+
+  "proxima centauri": {
+      "name": "Proxima Centauri",
+      "type": "Star",
+      "diameter": "200,000 km",
+      "planets": "Unknown",
+      "star_type": "M-Type Main Sequence",
+      "star_system": "3",
+      "fun_fact": "Proxima Centauri is the closest known star to the Sun"
+    },
+    
+  "sagittarius a": {
+      "name": "Sagittarius A",
+      "type": "Star",
+      "diameter": "88 million km",
+      "planets": "Unknown",
+      "star_type": "N/A",
+      "star_system": "6",
+      "fun_fact": "Sagittarius A is a possible black hole candidate"
+    }
+}
